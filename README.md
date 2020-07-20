@@ -29,10 +29,11 @@ I'm some kind of a developper how like to learn new technologies in JS. I've als
 I'm open to work in a team of developper, show everyone what I can do and learn more and more !  
 I’m currently learning React & VueJS and want to learn Node.JS to become a full stack JS developper. 
 
-## ⚡ Additional Information
+### 📫 Contact Me on Social Media
+[LinkedIn](https://www.linkedin.com/in/jordi-le-guet-23a01a187/) | [Twitter](https://twitter.com/JordiLeGuet) | or just [Email](mailto:jordi.leguet@gmail.com) | [Issues](https://github.com/Jordi-LG/Jordi-LG/issues) me when you want
+
+### ⚡ Additional Information
 I was a biological engineering and I discovered the wonderful developer's world thanks to [The Hacking Project](https://www.thehackingproject.org/).  
 After that I was becoming more professional thanks to [O'Clock](https://oclock.io/) school. 
-
-#### Any help is welcome ! Or for a simply chat : @ me on [Twitter](https://twitter.com/JordiLeGuet)
 
 #### 😄 Have fun on my GitHub profile.
