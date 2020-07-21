@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💬 About me
-I'm some kind of a developper how like to learn new technologies in JS. I've also got some projects on Ruby/Ruby On Rails and PHP. Check it out !
+I'm some kind of a developper who like to learn new technologies in JS. I've also got some projects on Ruby/Ruby On Rails and PHP. Check it out !
 
 ## 🌱 Goals for 2020
 I'm open to work in a team of developper, show everyone what I can do and learn more and more !  
